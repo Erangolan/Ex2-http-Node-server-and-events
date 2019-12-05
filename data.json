@@ -1,0 +1,20 @@
+[
+    {
+        "numOfTickets": 1,
+        "name": "Marvin",
+        "id": "0",
+        "date": "2012-11-11"
+    },
+    {
+        "numOfTickets": 2,
+        "name": "Alix",
+        "id": "1",
+        "date": "2011-10-12"
+    },
+    {
+        "numOfTickets": 1,
+        "name": "Alexa",
+        "id": "2",
+        "date": "2013-02-02"
+    }
+]
